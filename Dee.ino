@@ -2,7 +2,7 @@
  * 1-channel switch firmware for WiFi Curtain/Blinds module based on ESP8266:  
  * https://s.click.aliexpress.com/e/_d7tJGEP
  * 
- * For more information on wiring, flashing, etc. see https://ibn.by/2020/02/25/dee-firmware/
+ * For more information on wiring, flashing, etc. see https://ibn.by/2020/02/23/dee-firmware/
  * 
  * Works via MQTT over WiFi, as well as with directly attached to wall switch.
  * 
